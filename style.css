@@ -57,6 +57,22 @@ a {
   padding: 0 50px;
   height: 100%;
   justify-content: center;
-  text-align: center;
   align-items: center;
+  text-align: center;
 }
+
+.social-container {
+  margin: 20px 0;
+}
+
+.social-container a {
+  border: 1px solid #ddd;
+  border-radius: 50%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 5px;
+  height: 40px;
+  width: 40px;
+}
+
