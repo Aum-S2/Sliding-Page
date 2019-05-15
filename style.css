@@ -52,7 +52,7 @@ a {
 
 .form-container form {
   background: #65da42;
-  background: linear-gradient(to right, #3fca23, #e23a64) no-repeat 0 0 / cover;
+  background: linear-gradient(to right, #3fca23, #50ff6a) no-repeat 0 0 / cover;
   display: flex;
   flex-direction: column;
   padding: 0 50px;
@@ -87,8 +87,8 @@ a {
 
 button {
   border-radius: 20px;
-  border: 1px solid #44e923;
-  background: #44e923;
+  border: 1px solid rgb(255, 56, 56);
+  background: rgb(255, 56, 56);
   color: #fff;
   font-size: 12px;
   font-weight: bold;
